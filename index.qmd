@@ -1,0 +1,13 @@
+---
+title: "Solomon's draft blog"
+subtitle: "Please do not share this website with others. It's just a place to work in my drafts before public release."
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
